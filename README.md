@@ -5,3 +5,4 @@ PROJETO DE ESTRUTURAÇÃO E USO DO GITHUB
  # Aprofundamento extra-classe
  # Descobertas na area
  # Compartilhamento de ideias
+ # Verificacoes de requesitos
